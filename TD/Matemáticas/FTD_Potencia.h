@@ -5,6 +5,8 @@
     Versión:  20.11
     Licencia: (CC BY-NC-SA 4.0)
 
+    https://github.com/TonyDiana/LibreriasINO
+
     Consume menos tiempo/máquina que pow, pero NO FUNCIONA CUANDO hay decimales
     en la base y mucho menos en el exponente, además su resultado debe
     redondearse a '0' antes de utilizarse

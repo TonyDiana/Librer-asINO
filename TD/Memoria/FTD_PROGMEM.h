@@ -4,6 +4,9 @@
     Autor:    Tony Diana
     Versión:  20.11
     Licencia: (CC BY-NC-SA 4.0)
+
+    https://github.com/TonyDiana/LibreriasINO
+
    ----------------------------------------------------------------------------
 */
 
